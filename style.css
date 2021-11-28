@@ -25,7 +25,7 @@
 	width: 20%;
 }
 .image-section img{
-	width: 70%;
+	width: 80%;
 	height: auto;
 }
 .content-section .title{
@@ -88,7 +88,7 @@
 	
 }
 .image-section img{
-	width: 50%;
+	width: 100%;
 	height: auto;
 	display: block;
 	margin:auto;
